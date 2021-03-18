@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
     } else {
       cards[optionOneId].setAttribute("src", "images/blank.png");
       cards[optionTwoId].setAttribute("src", "images/blank.png");
-      alert("are u a bitch Shimla!");
+      alert("are u a bitch Shimla! try again");
     }
     cardsChosen = [];
     cardsChosenId = [];
